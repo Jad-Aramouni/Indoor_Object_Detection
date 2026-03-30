@@ -1,7 +1,3 @@
-from pathlib import Path
-
-content = """# Indoor Object Detection
-
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-CUDA-orange)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLOv8-black)
