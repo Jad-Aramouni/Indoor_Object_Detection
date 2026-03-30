@@ -3,7 +3,7 @@
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLOv8-black)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
-A computer vision project for **indoor object detection** using **transfer learning** with **Ultralytics YOLO** and **GPU acceleration**.
+A computer vision project for **indoor object detection** using **transfer learning** with **Ultralytics YOLO** and **GPU instead of CPU training**.
 
 ## Overview
 
